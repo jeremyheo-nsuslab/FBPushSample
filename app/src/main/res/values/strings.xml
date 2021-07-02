@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FBPushSample</string>
+    <string name="default_notification_channel_id">Channel_IMPORTANCE_MIN</string>
+</resources>
